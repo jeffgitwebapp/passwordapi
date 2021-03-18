@@ -39,12 +39,12 @@ API foi desenvolvida em C# utilizando o framework .Net Core.
   ## Execução do projeto
   - Utilizando o Visual Studio Code (ou similiar) acesse a pasta \..\PA.Api> e execute o comando dotnet run .\PA.Api.csproj
   - Através do método post chame o endpoint api/pa/validations/v1/password
-  - A senha deve ser postada como o json abaixo:
+  - A senha deve ser postada como o json de exemplo:
     {
 	"password": "!123456Qasdfg@"
 	}
   - A Api sempre retornará http response OK(200) se não houver erro de execução, será retornado "true" se a senha for válida e "false" se não for.
-  - Caso haja erro na execução ou algum parametro de entrada for inválido será retornado BadRequest(400)
+  - Caso haja erro na execução ou algum parametro de entrada previsto for inválido será retornado BadRequest(400)
 
 
 
