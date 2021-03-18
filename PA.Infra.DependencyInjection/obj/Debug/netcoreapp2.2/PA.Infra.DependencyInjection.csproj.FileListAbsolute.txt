@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\passwordapi\PA.Infra.DependencyInjection\bin\Debug\netcoreapp2.2\PA.Infra.DependencyInjection.deps.json
+C:\Users\DEV\source\repos\passwordapi\PA.Infra.DependencyInjection\bin\Debug\netcoreapp2.2\PA.Infra.DependencyInjection.dll
+C:\Users\DEV\source\repos\passwordapi\PA.Infra.DependencyInjection\bin\Debug\netcoreapp2.2\PA.Infra.DependencyInjection.pdb
+C:\Users\DEV\source\repos\passwordapi\PA.Infra.DependencyInjection\obj\Debug\netcoreapp2.2\PA.Infra.DependencyInjection.csprojAssemblyReference.cache
+C:\Users\DEV\source\repos\passwordapi\PA.Infra.DependencyInjection\obj\Debug\netcoreapp2.2\PA.Infra.DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\passwordapi\PA.Infra.DependencyInjection\obj\Debug\netcoreapp2.2\PA.Infra.DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\passwordapi\PA.Infra.DependencyInjection\obj\Debug\netcoreapp2.2\PA.Infra.DependencyInjection.AssemblyInfo.cs
+C:\Users\DEV\source\repos\passwordapi\PA.Infra.DependencyInjection\obj\Debug\netcoreapp2.2\PA.Infra.DependencyInjection.dll
+C:\Users\DEV\source\repos\passwordapi\PA.Infra.DependencyInjection\obj\Debug\netcoreapp2.2\PA.Infra.DependencyInjection.pdb
+C:\Users\DEV\source\repos\passwordapi\PA.Infra.DependencyInjection\bin\Debug\netcoreapp2.2\PA.Core.dll
+C:\Users\DEV\source\repos\passwordapi\PA.Infra.DependencyInjection\bin\Debug\netcoreapp2.2\PA.Core.pdb
+C:\Users\DEV\source\repos\passwordapi\PA.Infra.DependencyInjection\obj\Debug\netcoreapp2.2\PA.Infra.DependencyInjection.csproj.CopyComplete
+C:\Users\DEV\source\repos\passwordapi\PA.Infra.DependencyInjection\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DEV\source\repos\passwordapi\PA.Infra.DependencyInjection\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DependencyInjection.xml

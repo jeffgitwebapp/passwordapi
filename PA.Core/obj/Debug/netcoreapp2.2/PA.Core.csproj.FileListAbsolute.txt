@@ -1,0 +1,9 @@
+C:\Users\DEV\source\repos\passwordapi\PA.Core\bin\Debug\netcoreapp2.2\PA.Core.deps.json
+C:\Users\DEV\source\repos\passwordapi\PA.Core\bin\Debug\netcoreapp2.2\PA.Core.dll
+C:\Users\DEV\source\repos\passwordapi\PA.Core\bin\Debug\netcoreapp2.2\PA.Core.pdb
+C:\Users\DEV\source\repos\passwordapi\PA.Core\obj\Debug\netcoreapp2.2\PA.Core.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\passwordapi\PA.Core\obj\Debug\netcoreapp2.2\PA.Core.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\passwordapi\PA.Core\obj\Debug\netcoreapp2.2\PA.Core.AssemblyInfo.cs
+C:\Users\DEV\source\repos\passwordapi\PA.Core\obj\Debug\netcoreapp2.2\PA.Core.dll
+C:\Users\DEV\source\repos\passwordapi\PA.Core\obj\Debug\netcoreapp2.2\PA.Core.pdb
+C:\Users\DEV\source\repos\passwordapi\PA.Core\obj\Debug\netcoreapp2.2\PA.Core.csprojAssemblyReference.cache
