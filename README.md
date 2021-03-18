@@ -25,6 +25,7 @@ API foi desenvolvida em C# utilizando o framework .Net Core.
  - Foi utilizado UseCase pattern com o objetivo de chegar a uma arquitetura mais limpa possível para o problema em questão.
  - Desenvolvimento orietando a abstrações, utilizando interfaces, classes abstratas e incluíndo utilização de componentes como MediatR.
  - Como não há interação com fontes de dados não foi construindo nenhuma abstração de acesso ou manipulação de dados (Exemplo Repository Pattern)
+ - Buscamos utilizar Injeção de dependencia, inversão de controle, principios SOLID e OO.
   
  
   ## Itens de melhoria ou não implementados
