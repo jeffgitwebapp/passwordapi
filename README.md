@@ -1,13 +1,13 @@
-# Passoword API - PA | Desenvolvido por Jefferson Santos
+# Password API - PA | Desenvolvido por Jefferson Santos
 Projeto de teste verificação estrutural de senha.
 
-# Passoword API - PA | Descrição da solução.
+# Password API - PA | Descrição da solução.
 API foi desenvolvida em C# utilizando o framework .Net Core.
 
 ## Estruturalmente a solução foi organizada da seguinte forma:
  - Core	-> Componente que possui fluxos de processamento e define o comportamento do sistema em relação as regras de negocios envolvidas.
-		- Domain -> Onde localizamos nosso dominio de negocio. Deve estar o mais desacoplado possível de toda a aplicação.
-		- UseCase -> Define fluxos de processamento e execuação de regras de negocio, recebe as mensagens de entrada e processa a mesma retornando seu respectuivo resultado.
+	- Domain -> Onde localizamos nosso dominio de negocio. Deve estar o mais desacoplado possível de toda a aplicação.
+	- UseCase -> Define fluxos de processamento e execuação de regras de negocio, recebe as mensagens de entrada e processa a mesma retornando seu respectuivo resultado.
  
  - Infra - > Componente que implementa a utilização de recursos como acesso a dados, integrações, interfaces e qualquer outro recurso de infraestrurura para execução da aplicação.
 	- Para este projeto implementamos apenas a injeção de dependência até o momento.
